@@ -1,0 +1,17 @@
+{
+  "name": "ig-post-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "devacran",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}
